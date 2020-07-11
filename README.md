@@ -1,4 +1,4 @@
-# Sprint_PrograMaria_IA
+# Sprint PrograMaria | Inteligência Artificial para Devs
 
 A Sprint PrograMaria IA foi uma jornada online de conteúdo para organizar nosso aprendizado e alcançar nossos objetivos!
 
@@ -8,3 +8,6 @@ Para inaugurar esse formato, foi abordado Inteligência Artificial, assunto mais
 O workshop está disponível nesse vídeo: https://youtu.be/Jq4aKxaoLGM
 
 O material completo da Sprint pode ser baixado nesse link: https://www.programaria.org/mulherespodem/sprint-ia/
+
+#mulherespodem
+#vamosjuntas
